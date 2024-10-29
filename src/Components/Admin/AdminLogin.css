@@ -1,0 +1,18 @@
+.TableHead{
+    font-family: "Inter" !important;
+    font-size: 15px !important;
+    font-weight: 600 !important;
+    line-height: 22px !important;
+    letter-spacing: 0.02em !important;
+    text-align: left !important;
+    color:#0070E9 !important
+}
+.TableCellinadmin{
+    font-family: "Inter" !important;
+    font-size: 15px !important;
+    font-weight: 500 !important;
+    line-height: 22px !important;
+    letter-spacing: 0.02em !important;
+    text-align: left !important;
+
+}
